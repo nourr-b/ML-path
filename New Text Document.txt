@@ -1,0 +1,37 @@
+what did i learn in this course?
+a. Python for data science
+	1. Introduction to python 
+	2. Variables & keywords
+	3. data types operators
+	4. lists
+	5. tuples
+	6. sets
+	7. dictionary
+	8. loops and iterations
+	9. functions
+	10. map reduce filter
+	11. file handling
+	12. control structures
+	13. oops
+	14. numpy
+	15. pandas
+	16. data visualization
+	17. matplotlib
+	18. seaborn
+b. Business statistics
+	1. types of data(Agenda)
+	2. descriptive stats
+	3. inferential stats
+	4. qualitative data
+	5. quantitative data
+	6. sampling techniques(agenda)
+	7. 
+	8. 
+	9. 
+	10. 
+	11. 
+	12. 
+	13.
+	14.
+	15. 
+	16.
